@@ -301,6 +301,16 @@
 </div>
   <div class="row">
            <div class="container gc-srvinfo">
+			<div class="wb-eqht row">
+		<mark>
+		<div class="col-lg-4 col-md-6">
+	        <h3><a href="https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html">Determine your residency status</a></h3>
+	        <p>If you entered or left Canada, answer a few questions about your situation to determine your tax obligations</p>
+      </div>
+</mark>
+</div>
+
+
     <h2>You live in Canada permanently</h2>
     <div class="wb-eqht row">
 		
